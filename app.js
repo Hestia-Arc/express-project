@@ -27,56 +27,56 @@ app.use('/users', usersRouter);
 
 // --------NO 1 & 2
 
-https.get('https://en.wikipedia.org/wiki/Tunde_Onakoya', (response) => {
-  console.log('statusCode:', response.statusCode);
-  console.log('headers:', response.headers);
+// https.get('https://en.wikipedia.org/wiki/Tunde_Onakoya', (response) => {
+//   console.log('statusCode:', response.statusCode);
+//   // console.log('headers:', response.headers);
 
-  const fileData = fs.createWriteStream(path.join(__dirname, 'public', 'output.txt')); 
+//   const fileData = fs.createWriteStream(path.join(__dirname, 'public', 'output.txt')); 
 
-  response.on('data', (data) => {
-    fileData.write(data); 
-  });
+//   response.on('data', (data) => {
+//     fileData.write(data); 
+//   });
 
-  response.on('complete', () => {
-    console.log('Data completed')
-  })
+//   response.on('complete', () => {
+//     console.log('Data completed')
+//   })
 
-  response.on('close', () => { 
-    fileData.end(); 
-    console.log('Response closed');
-  });
+//   response.on('close', () => { 
+//     fileData.end(); 
+//     console.log('Response closed');
+//   });
 
-}).on('error', (error) => {
-  console.error(error);
-});
+// }).on('error', (error) => {
+//   console.error(error);
+// });
 
-// ---------- NO 3
+// // ---------- NO 3
 
 
-const filePath = path.join(__dirname, 'public', 'os-info.md'); 
+// const filePath = path.join(__dirname, 'public', 'os-info.md'); 
 
-function formatUptime(uptime) {
-  const days = Math.floor(uptime / (60 * 60 * 24));
-  const hours = Math.floor((uptime % (60 * 60 * 24)) / (60 * 60));
-  const seconds = Math.floor((uptime % (60 * 60)) / 60);
-  return `${days}:${hours}:${seconds}`;
-}
+// function formatUptime(uptime) {
+//   const days = Math.floor(uptime / (60 * 60 * 24));
+//   const hours = Math.floor((uptime % (60 * 60 * 24)) / (60 * 60));
+//   const seconds = Math.floor((uptime % (60 * 60)) / 60);
+//   return `${days}:${hours}:${seconds}`;
+// }
 
-const content = `
+// const content = `
 
-OS Arch: ${os.arch()}
+// OS Arch: ${os.arch()}
 
-Uptime: ${formatUptime(os.uptime())}
+// Uptime: ${formatUptime(os.uptime())}
 
-Home Dir: ${os.homedir()}\n`;
+// Home Dir: ${os.homedir()}\n`;
 
-fs.writeFile(filePath, content, 'utf8', (error) => {
-  if (error) {
-    console.error(error);
-  } else {
-    console.log('OS info written');
-  }
-});
+// fs.writeFile(filePath, content, 'utf8', (error) => {
+//   if (error) {
+//     console.error(error);
+//   } else {
+//     console.log('OS info written');
+//   }
+// });
 
 // --------
 

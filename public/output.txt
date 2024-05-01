@@ -1,27 +1,36 @@
 <!DOCTYPE html>
-<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="en" dir="ltr">
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-clientpref-0 vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8">
 <title>Tunde Onakoya - Wikipedia</title>
-<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
-"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"e1d5afcc-e2f8-4f5f-b611-15ea34ee8880","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tunde_Onakoya","wgTitle":"Tunde Onakoya","wgCurRevisionId":1220084402,"wgRevisionId":1220084402,"wgArticleId":69587017,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: generic name","CS1 maint: numeric names: authors list","Articles with short description","Short description is different from Wikidata","1994 births","Living people","Nigerian chess players","Chess coaches","21st-century chess players","Sportspeople from Lagos","Yaba College of Technology alumni"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-clientpref-0 vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"fb5e9dd7-614e-41cf-b382-012b5d406e92","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tunde_Onakoya","wgTitle":"Tunde Onakoya","wgCurRevisionId":1220084402,"wgRevisionId":1220084402,"wgArticleId":69587017,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: generic name","CS1 maint: numeric names: authors list","Articles with short description","Short description is different from Wikidata","1994 births","Living people","Nigerian chess players","Chess coaches","21st-century chess players","Sportspeople from Lagos","Yaba College of Technology alumni"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":
 "Tunde_Onakoya","wgRelevantArticleId":69587017,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":6,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q110253896","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform",
 "platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.wikimediamessages.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.switcher","ext.urlShortener.toolbar",
-"ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+"ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 }];});});</script>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cext.wikimediamessages.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
 <meta name="ResourceLoaderDynamicStyles" content="">
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
-<meta name="generator" content="MediaWiki 1.43.0-wmf.1">
+<meta name="generator" content="MediaWiki 1.43.0-wmf.2">
 <meta name="referrer" content="origin">
 <meta name="referrer" content="origin-when-cross-origin">
 <meta name="robots" content="max-image-preview:standard">
 <meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/e/e2/Tunde_Onakoya.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1171">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/e/e2/Tunde_Onakoya.png">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="781">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="625">
 <meta name="viewport" content="width=1000">
 <meta property="og:title" content="Tunde Onakoya - Wikipedia">
 <meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
 <link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Tunde_Onakoya">
 <link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Tunde_Onakoya&amp;action=edit">
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
@@ -378,10 +387,10 @@
 					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Tunde Onakoya</span></h1>
 							
 <div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
-	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 4 languages"   >
-	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-4" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 5 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-5" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
 
-<span class="vector-dropdown-label-text">4 languages</span>
+<span class="vector-dropdown-label-text">5 languages</span>
 	</label>
 	<div class="vector-dropdown-content">
 
@@ -389,7 +398,7 @@
 			
 			<ul class="vector-menu-content-list">
 				
-				<li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Tunde_Onakoya" title="Tunde Onakoya – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Tunde_Onakoya" title="Tunde Onakoya – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Tunde_Onakoya" title="Tunde Onakoya – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ha mw-list-item"><a href="https://ha.wikipedia.org/wiki/Tunde_Onakoya" title="Tunde Onakoya – Hausa" lang="ha" hreflang="ha" class="interlanguage-link-target"><span>Hausa</span></a></li>
+				<li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Tunde_Onakoya" title="Tunde Onakoya – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Tunde_Onakoya" title="Tunde Onakoya – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Tunde_Onakoya" title="Tunde Onakoya – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ha mw-list-item"><a href="https://ha.wikipedia.org/wiki/Tunde_Onakoya" title="Tunde Onakoya – Hausa" lang="ha" hreflang="ha" class="interlanguage-link-target"><span>Hausa</span></a></li><li class="interlanguage-link interwiki-pcm mw-list-item"><a href="https://pcm.wikipedia.org/wiki/Tunde_Onakoya" title="Tunde Onakoya – Nigerian Pidgin" lang="pcm" hreflang="pcm" class="interlanguage-link-target"><span>Naijá</span></a></li>
 			</ul>
 			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q110253896#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
 		</div>
@@ -555,7 +564,7 @@
 					
 					
 					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Nigerian chess player (born 1994)</div>
-<style data-mw-deduplicate="TemplateStyles:r1218072481">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}html.skin-theme-clientpref-night .mw-parser-output .infobox-full-data div{background:#1f1f23!important;color:#f8f9fa}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .infobox-full-data div{background:#1f1f23!important;color:#f8f9fa}}</style><table class="infobox vcard"><tbody><tr><th colspan="2" class="infobox-above fn">Tunde Onakoya</th></tr><tr><th scope="row" class="infobox-label">Country</th><td class="infobox-data adr"><a href="/wiki/Nigeria" title="Nigeria">Nigeria</a></td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none"> (<span class="bday">1994-10-06</span>) </span>6 October 1994<span class="noprint ForceAgeToShow"> (age&#160;29)</span><br /><a href="/wiki/Ikorodu" title="Ikorodu">Ikorodu</a>, Nigeria</td></tr><tr><th scope="row" class="infobox-label"><a href="/wiki/List_of_chess_players_by_peak_FIDE_rating" title="List of chess players by peak FIDE rating">Peak&#160;rating</a></th><td class="infobox-data">2197 (July 2016)</td></tr></tbody></table>
+<style data-mw-deduplicate="TemplateStyles:r1218072481">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}html.skin-theme-clientpref-night .mw-parser-output .infobox-full-data div{background:#1f1f23!important;color:#f8f9fa}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .infobox-full-data div{background:#1f1f23!important;color:#f8f9fa}}</style><table class="infobox vcard"><tbody><tr><th colspan="2" class="infobox-above fn">Tunde Onakoya</th></tr><tr><td colspan="2" class="infobox-image"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:Tunde_Onakoya.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Tunde_Onakoya.png/220px-Tunde_Onakoya.png" decoding="async" width="220" height="215" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Tunde_Onakoya.png/330px-Tunde_Onakoya.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Tunde_Onakoya.png/440px-Tunde_Onakoya.png 2x" data-file-width="541" data-file-height="528" /></a></span></td></tr><tr><th scope="row" class="infobox-label">Country</th><td class="infobox-data adr"><a href="/wiki/Nigeria" title="Nigeria">Nigeria</a></td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none"> (<span class="bday">1994-10-06</span>) </span>6 October 1994<span class="noprint ForceAgeToShow"> (age&#160;29)</span><br /><a href="/wiki/Ikorodu" title="Ikorodu">Ikorodu</a>, Nigeria</td></tr><tr><th scope="row" class="infobox-label"><a href="/wiki/List_of_chess_players_by_peak_FIDE_rating" title="List of chess players by peak FIDE rating">Peak&#160;rating</a></th><td class="infobox-data">2197 (July 2016)</td></tr></tbody></table>
 <p><b>Tunde Onakoya</b> (born 6 October 1994) is a Nigerian <a href="/wiki/Chess_player" class="mw-redirect" title="Chess player">chess player</a> and coach, who holds the <a href="/wiki/Guinness_World_Records" title="Guinness World Records">Guinness World Records</a> for the longest marathon chess game.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-:0_3-0" class="reference"><a href="#cite_note-:0-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> and founder of <a href="/wiki/Chess_in_Slums_Africa" title="Chess in Slums Africa">Chess in Slums Africa</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> He has organised a number of interventions for children across slums in <a href="/wiki/Lagos_State" title="Lagos State">Lagos state</a> including Majidun (<a href="/wiki/Ikorodu" title="Ikorodu">Ikorodu</a>), <a href="/wiki/Makoko" title="Makoko">Makoko</a> and recently, <a href="/wiki/Oshodi-Isolo" title="Oshodi-Isolo">Oshodi</a>. The children are engaged in a two-week session that seeks to unlock their potential through the game of chess while learning to read, write and acquire basic literacy skills.
 </p>
 <meta property="mw:PageProp/toc" />
@@ -650,39 +659,39 @@
 <ul><li><a rel="nofollow" class="external text" href="https://ratings.fide.com/profile/8506442">Tunde Onakoya</a> rating card at <a href="/wiki/FIDE" title="FIDE">FIDE</a></li></ul>
 <!-- 
 NewPP limit report
-Parsed by mw‐web.eqiad.main‐7f5bb5b669‐s6s4m
-Cached time: 20240422180134
+Parsed by mw‐web.codfw.main‐5568dbf7fc‐n87bm
+Cached time: 20240427032508
 Cache expiry: 2592000
 Reduced expiry: false
 Complications: [vary‐revision‐sha1, show‐toc]
-CPU time usage: 0.463 seconds
-Real time usage: 0.568 seconds
-Preprocessor visited node count: 5017/1000000
-Post‐expand include size: 58282/2097152 bytes
+CPU time usage: 0.415 seconds
+Real time usage: 0.500 seconds
+Preprocessor visited node count: 5033/1000000
+Post‐expand include size: 58656/2097152 bytes
 Template argument size: 986/2097152 bytes
 Highest expansion depth: 14/100
 Expensive parser function count: 1/500
 Unstrip recursion depth: 1/20
 Unstrip post‐expand size: 118804/5000000 bytes
-Lua time usage: 0.283/10.000 seconds
-Lua memory usage: 6185687/52428800 bytes
+Lua time usage: 0.246/10.000 seconds
+Lua memory usage: 6221981/52428800 bytes
 Number of Wikibase entities loaded: 1/400
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  534.518      1 -total
- 51.67%  276.193      1 Template:Reflist
- 37.03%  197.925     23 Template:Cite_web
- 26.44%  141.322      1 Template:Infobox_chess_player
- 25.36%  135.531      1 Template:Infobox
- 14.26%   76.214      1 Template:Short_description
-  8.33%   44.521      2 Template:Br_separated_entries
-  7.43%   39.695      2 Template:Pagetype
-  6.65%   35.569      1 Template:Birth_date_and_age
-  5.27%   28.145      1 Template:Elo_rating
+100.00%  450.534      1 -total
+ 53.06%  239.031      1 Template:Reflist
+ 37.68%  169.774     23 Template:Cite_web
+ 24.94%  112.362      1 Template:Infobox_chess_player
+ 23.85%  107.459      1 Template:Infobox
+ 14.14%   63.717      1 Template:Short_description
+  7.69%   34.625      2 Template:Pagetype
+  6.90%   31.087      2 Template:Br_separated_entries
+  5.38%   24.247      1 Template:Elo_rating
+  5.26%   23.691      1 Template:Birth_date_and_age
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:69587017-0!canonical and timestamp 20240422180134 and revision id 1220084402. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key enwiki:pcache:idhash:69587017-0!canonical and timestamp 20240427032508 and revision id 1220084402. Rendering was triggered because: page-view
  -->
 </div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
 <div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Tunde_Onakoya&amp;oldid=1220084402">https://en.wikipedia.org/w/index.php?title=Tunde_Onakoya&amp;oldid=1220084402</a>"</div></div>
@@ -732,7 +741,7 @@ additional terms may apply. By using this site, you agree to the <a href="//foun
 </li>
 	</ul>
 </div>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1436","wgBackendResponseTime":138,"wgPageParseReport":{"limitreport":{"cputime":"0.463","walltime":"0.568","ppvisitednodes":{"value":5017,"limit":1000000},"postexpandincludesize":{"value":58282,"limit":2097152},"templateargumentsize":{"value":986,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":118804,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  534.518      1 -total"," 51.67%  276.193      1 Template:Reflist"," 37.03%  197.925     23 Template:Cite_web"," 26.44%  141.322      1 Template:Infobox_chess_player"," 25.36%  135.531      1 Template:Infobox"," 14.26%   76.214      1 Template:Short_description","  8.33%   44.521      2 Template:Br_separated_entries","  7.43%   39.695      2 Template:Pagetype","  6.65%   35.569      1 Template:Birth_date_and_age","  5.27%   28.145      1 Template:Elo_rating"]},"scribunto":{"limitreport-timeusage":{"value":"0.283","limit":"10.000"},"limitreport-memusage":{"value":6185687,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-7f5bb5b669-s6s4m","timestamp":"20240422180134","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Tunde Onakoya","url":"https:\/\/en.wikipedia.org\/wiki\/Tunde_Onakoya","sameAs":"http:\/\/www.wikidata.org\/entity\/Q110253896","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q110253896","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2021-12-24T14:41:58Z","dateModified":"2024-04-21T18:39:17Z","headline":"Nigerian chess master"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-7c9dc8fdfb-7wcz9","wgBackendResponseTime":150,"wgPageParseReport":{"limitreport":{"cputime":"0.415","walltime":"0.500","ppvisitednodes":{"value":5033,"limit":1000000},"postexpandincludesize":{"value":58656,"limit":2097152},"templateargumentsize":{"value":986,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":118804,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  450.534      1 -total"," 53.06%  239.031      1 Template:Reflist"," 37.68%  169.774     23 Template:Cite_web"," 24.94%  112.362      1 Template:Infobox_chess_player"," 23.85%  107.459      1 Template:Infobox"," 14.14%   63.717      1 Template:Short_description","  7.69%   34.625      2 Template:Pagetype","  6.90%   31.087      2 Template:Br_separated_entries","  5.38%   24.247      1 Template:Elo_rating","  5.26%   23.691      1 Template:Birth_date_and_age"]},"scribunto":{"limitreport-timeusage":{"value":"0.246","limit":"10.000"},"limitreport-memusage":{"value":6221981,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-5568dbf7fc-n87bm","timestamp":"20240427032508","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Tunde Onakoya","url":"https:\/\/en.wikipedia.org\/wiki\/Tunde_Onakoya","sameAs":"http:\/\/www.wikidata.org\/entity\/Q110253896","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q110253896","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2021-12-24T14:41:58Z","dateModified":"2024-04-21T18:39:17Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e2\/Tunde_Onakoya.png","headline":"Nigerian chess master"}</script>
 </body>
 </html>

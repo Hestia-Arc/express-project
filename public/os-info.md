@@ -1,7 +1,7 @@
-## System Information
 
-**OS Architecture:** x64
 
-**Uptime:** 28:4:40
+OS Arch: x64
 
-**Home Directory:** C:\Users\USER
+Uptime: 36:3:38
+
+Home Dir: C:\Users\USER
