@@ -1,3 +1,6 @@
 {
-    "/public/stylesheets/index.css": "/public/stylesheets/index.css"
+    "/public/javascripts/index.js": "/public/javascripts/index.js",
+    "/public/stylesheets/app.css": "/public/stylesheets/app.css",
+    "/public/stylesheets/index2.css": "/public/stylesheets/index2.css",
+    "/public/stylesheets/blog.css": "/public/stylesheets/blog.css"
 }
